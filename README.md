@@ -24,4 +24,3 @@ ProyectoTarea4/Inserciones/
 ├── productos.js         # Inserta 100 productos
 ├── clientes.js          # Inserta 100 clientes
 ├── ventas.js            # Inserta 100 ventas conectando clientes y productos
-├── README.md            # Este archivo
